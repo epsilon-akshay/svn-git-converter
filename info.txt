@@ -1,1 +1,3 @@
-https://10.25.12.125/svn/SimasWeb/PersonalBanking/branches/IBORCL
+https://{host}/svn/repo/branch1
+https://{host}/svn/repo/branch2
+https://{host}/svn/repo/branch3
